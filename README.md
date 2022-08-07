@@ -2,7 +2,7 @@
 
 > **10,000 foot view** *noun*, *informal*: a view of a situation that provides very general information, but no details.
 
-A collection of lectures that I'm using as *general introductions* in different classes, without any claim to be exhaustive.
+A collection of heterogeneous lectures that I'm using as *general introductions* or *crash courses*. Maybe useful to get an idea about the different topics, but not systematic, let alone exhaustive.
 
 ----------------------------------------
 
