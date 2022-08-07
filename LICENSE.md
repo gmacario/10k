@@ -1,4 +1,4 @@
-#### Copyright © 2022-2022 by Giovanni Squillero
+#### Copyright © 2021-2022 by Giovanni Squillero
 Permission to make digital or hard copies for personal or classroom
 use of these files, either with or without modification, is granted
 without fee provided that copies are not distributed for profit, and
