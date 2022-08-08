@@ -1,8 +1,8 @@
 # Squillero's 10k views
 
-> **10,000 foot view** *noun*, *informal*: a view of a situation that provides very general information, but no details.
+> [**10,000 foot view**](https://dictionary.cambridge.org/dictionary/english/10000-foot-view) *noun*, *informal*: a description or view of a situation or problem that provides very general information, but no details.
 
-A collection of heterogeneous lectures that I'm using as *general introductions* or *crash courses*. Maybe useful to get an idea about the different topics, but not systematic, let alone exhaustive.
+An unsystematic collection of lectures and talks that I'm using as introductory material in my classes.
 
 ----------------------------------------
 
