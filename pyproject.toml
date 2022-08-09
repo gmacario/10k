@@ -38,6 +38,10 @@ yapf = ">=0.32"
 
 [tool.poetry.dev-dependencies]
 
+#[[tool.poetry.source]]
+#name = "CUDA_v11.6"
+#url = "https://download.pytorch.org/whl/cu116/"
+
 [build-system]
 build-backend = "poetry.core.masonry.api"
 requires = ["poetry-core>=1.0.0"]
