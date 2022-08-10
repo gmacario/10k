@@ -35,6 +35,7 @@ toml = ">=0.10"
 torch = "~1.12"
 tqdm = ">=4.64"
 yapf = ">=0.32"
+scikit-learn = "^1.1.2"
 
 [tool.poetry.dev-dependencies]
 
