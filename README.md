@@ -9,4 +9,4 @@ Use [poetry](https://python-poetry.org/) to recreate a working python environmen
 ----------------------------------------
 
 **Copyright © [Giovanni Squillero](https://squillero.github.io/) <[squillero@polito.it](mailto:squillero@polito.it)**>  
-Copying and distributing these files are permitted under certain conditions, see [`LICENSE.md`](./LICENSE.md) for details.
+Copying and distributing these files are permitted under certain conditions, see the [license](./LICENSE.md) for details.
